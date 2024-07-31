@@ -5,7 +5,7 @@ sys.path.append("/root/naver/members/soo/pipeline2")
 from clova_ocr import ocr_clova
 
 
-openai.api_key = 'sk-None-NCV6Mi3LXlruoTpnq8ADT3BlbkFJXGyWTSQdVhcy0SFiNpAb'
+openai.api_key = ''
 
 reader = easyocr.Reader(['ko','en']) # this needs to run only once to load the model into memory
 
