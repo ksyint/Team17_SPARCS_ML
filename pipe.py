@@ -7,7 +7,7 @@ import os
 import random
 
 
-openai.api_key = 'sk-None-NCV6Mi3LXlruoTpnq8ADT3BlbkFJXGyWTSQdVhcy0SFiNpAb'
+openai.api_key = ''
 
 
 def chat_gpt(contents,prompt):
